@@ -10,7 +10,7 @@ from model import GPTConfig, GPT
 # -----------------------------------------------------------------------------
 
 # Adjust these paths as needed
-out_dir = 'out-my_dataset'  # Output directory where the model checkpoint is saved
+out_dir = 'out'  # Output directory where the model checkpoint is saved
 ckpt_path = os.path.join(out_dir, 'ckpt.pt')
 data_dir = 'data/my_dataset'  # Directory where your dataset and meta.pkl are located
 

@@ -39,7 +39,7 @@ wandb_project = 'owt'
 wandb_run_name = 'gpt2'  # 'run' + str(time.time())
 
 # Data
-dataset = 'openwebtext'
+dataset = 'my_dataset'
 gradient_accumulation_steps = 1  # Adjusted to 1
 batch_size = 64  # Adjusted as needed
 block_size = 2  # Adjusted as needed

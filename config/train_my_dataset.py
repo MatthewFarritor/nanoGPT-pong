@@ -9,7 +9,7 @@ log_interval = 10
 
 learning_rate = 1e-3
 batch_size = 64
-block_size = 2  
+block_size = 20  
 
 n_layer = 4
 n_head = 4
